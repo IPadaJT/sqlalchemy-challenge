@@ -11,3 +11,7 @@
 ## Part 2: Climate App
 - Refer to the app.py file for this portion.
 - Uses the above queried data and Flask to create an app that can return various JSON data.
+
+## References
+- Outside references were used in aiding with some of the code/debugging. 
+- Including stackoverflow, class work, YouTube videos. 
